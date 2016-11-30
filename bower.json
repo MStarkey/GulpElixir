@@ -1,0 +1,30 @@
+{
+  "name": "GulpElixir",
+  "description": "Gulp and Elixir compiler",
+  "main": "",
+  "authors": [
+    "Mark Starkey <mstarkey@turnbullripley.co.uk>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bxslider": "*",
+    "components-font-awesome": "^4.7.0",
+    "html5shiv": "^3.7.3",
+    "jquery-1.12.4": "https://code.jquery.com/jquery-1.12.4.js"
+  },
+  "devDependencies": {
+    "bxslider": "*",
+    "html5shiv": "^3.7.3",
+    "jquery-1.12.4": "https://code.jquery.com/jquery-1.12.4.js",
+    "components-font-awesome": "^4.7.0",
+    "fancybox": "^2.1.5"
+  }
+}
